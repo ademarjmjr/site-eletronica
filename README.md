@@ -19,7 +19,7 @@ A Eletrônica TVs é uma empresa especializada em conserto e manutenção de tel
 ## Como usar
 
 1. Faça o download ou clone este repositório.
-2. Abra o arquivo `index.html` no seu navegador.
+2. Abra o arquivo index.html no seu navegador.
 3. Navegue pelo site para obter mais informações sobre nossos serviços.
 4. Entre em contato conosco para agendar um serviço de conserto de TV e som.
 
