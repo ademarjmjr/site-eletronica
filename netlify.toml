@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"  # Comando para build do seu projeto
-  publish = "distademarjmjr/eletronica-tvs"  # Diretório onde está o código a ser publicado
+  publish = "dist"  # Diretório onde está o código a ser publicado
 
 [[redirects]]
   from = "/*"  # Redirecionamento de todas as rotas
